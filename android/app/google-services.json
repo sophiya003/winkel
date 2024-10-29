@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451608898187",
+    "project_id": "winkel-2d849",
+    "storage_bucket": "winkel-2d849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451608898187:android:1bee7d7bba31323bc4c28e",
+        "android_client_info": {
+          "package_name": "com.example.winkel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhqFCeLkmHopY4I-_91Zuy_UkDnS0PtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
